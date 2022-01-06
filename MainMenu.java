@@ -6,7 +6,7 @@ public class MainMenu {
 	public static void main(String[] args) {
 		JFrame window = new JFrame("Yes!!! KILL!!!");
 		
-		JLabel welcomeback = new JLabel("Hello and welcome back to... Yes!!! KILL!!!");
+		JLabel welcomeback = new JLabel("Hello and welcome back to... Yes!!! Fight!!!");
 		welcomeback.setVerticalAlignment(JLabel.TOP);
 		welcomeback.setHorizontalAlignment(JLabel.CENTER);		 
 		welcomeback.setBounds(300,10,800,200);
